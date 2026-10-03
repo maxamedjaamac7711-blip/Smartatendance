@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\rpswa.dswa.cache.json
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.Properties_1.CustomClassesWithDP.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\SmartAttendanceSystem\SmartAttendanceSystem\obj\Release\net10.0\SmartAttendanceSystem.RazorAssemblyInfo.cs
